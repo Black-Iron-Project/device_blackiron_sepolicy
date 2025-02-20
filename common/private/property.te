@@ -10,3 +10,4 @@ system_internal_prop(custom_version_prop)
 
 # Recovery update
 system_internal_prop(recovery_update_prop)
+system_public_prop(cpu_limit_prop)
